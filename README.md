@@ -1,3 +1,10 @@
+reactbase
+
+简述:
+	基于react搭建一个基础的前端开发框架
+	
+	
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
